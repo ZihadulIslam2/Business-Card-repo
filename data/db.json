@@ -1,0 +1,33 @@
+{
+    "blogs": [
+        {
+            "title": "HTML",
+            "skillevel": "High",
+            "about": "I have learn html. And practice html many time.",
+            "code":"all", 
+            "id": 1
+        },
+        {
+            "title": "CSS",
+            "skillevel": "MADIUM",
+            "about": "I have learn CSS. And practice CSS many time.",
+            "code":"all", 
+            "id": 2
+        },
+        {
+            "title": "JAVA SCRIPT",
+            "skillevel": "MADIUM",
+            "about": "I have learn JAVASCRIPT. And practice JAVASCRIIPT many time.",
+            "code":"all", 
+            "id": 3
+        },
+        {
+            "title": "REACT",
+            "skillevel": "MADIUM",
+            "about": "I have learn REACT. And practice REACT many time.",
+            "code":"all", 
+            "id": 4
+        }
+    ]
+
+}
